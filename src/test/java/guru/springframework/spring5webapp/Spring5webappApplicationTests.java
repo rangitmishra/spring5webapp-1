@@ -11,6 +11,7 @@ public class Spring5webappApplicationTests {
 
 	@Test
 	public void contextLoads() {
+		System.out.println("Just adding something to check if the git is working properly.");
 	}
 
 }
